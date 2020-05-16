@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Bus tour" />
+            <option value="$PROJECT_DIR$/Problems/Check the sum" />
+            <option value="$PROJECT_DIR$/Problems/Check the value" />
+            <option value="$PROJECT_DIR$/Problems/Chocolate" />
+            <option value="$PROJECT_DIR$/Problems/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces" />
+            <option value="$PROJECT_DIR$/Problems/Decrement all" />
+            <option value="$PROJECT_DIR$/Problems/Even or odd" />
+            <option value="$PROJECT_DIR$/Problems/Extracting a substring" />
+            <option value="$PROJECT_DIR$/Problems/First digit" />
+            <option value="$PROJECT_DIR$/Problems/Healthy sleep" />
+            <option value="$PROJECT_DIR$/Problems/Incorrect comments" />
+            <option value="$PROJECT_DIR$/Problems/Integer part of a number" />
+            <option value="$PROJECT_DIR$/Problems/Is between" />
+            <option value="$PROJECT_DIR$/Problems/Leap year" />
+            <option value="$PROJECT_DIR$/Problems/Maximum element divisible by four" />
+            <option value="$PROJECT_DIR$/Problems/Next even number" />
+            <option value="$PROJECT_DIR$/Problems/Printing only the longest line" />
+            <option value="$PROJECT_DIR$/Problems/Profit" />
+            <option value="$PROJECT_DIR$/Problems/Raise to the power" />
+            <option value="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'" />
+            <option value="$PROJECT_DIR$/Problems/Reversing input numbers" />
+            <option value="$PROJECT_DIR$/Problems/Snail" />
+            <option value="$PROJECT_DIR$/Problems/The (un)-ordered sequence" />
+            <option value="$PROJECT_DIR$/Problems/The count of numbers divisible by N" />
+            <option value="$PROJECT_DIR$/Problems/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Problems/The sum of elements" />
+            <option value="$PROJECT_DIR$/Problems/Three numbers" />
+            <option value="$PROJECT_DIR$/Problems/Triangle" />
+            <option value="$PROJECT_DIR$/Problems/Vowel or not" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
